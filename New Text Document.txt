@@ -28,3 +28,7 @@ Text :
 
     arr[] =  {p.para1, span.para1} 
     arr[0]
+
+
+
+    DOM : document object model
